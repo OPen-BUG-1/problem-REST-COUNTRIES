@@ -1,0 +1,22 @@
+{
+  "name": "openbug",
+  "version": "1.0.0",
+  "description": "work and distraction",
+  "main": "index.js",
+  "scripts": {
+    "test": "guys"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OPen-BUG-1/problem-REST-COUNTRIES.git"
+  },
+  "keywords": [
+    "word"
+  ],
+  "author": "DLO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OPen-BUG-1/problem-REST-COUNTRIES/issues"
+  },
+  "homepage": "https://github.com/OPen-BUG-1/problem-REST-COUNTRIES#readme"
+}
